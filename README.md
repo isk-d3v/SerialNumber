@@ -1,2 +1,5 @@
-# SerialNumber
-Script Showing SerialNumbers for Windows / Linux / MacOS
+# macOs
+---
+'''bash
+brew install dotnet
+'''
